@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758131358366",
+    "project_id": "therapist-430bc",
+    "storage_bucket": "therapist-430bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758131358366:android:f821127dadcd56d477598f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758131358366-817db060e1ricnuiau9lq8poluok5sq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHVI--rTXaJkON55uDqVPdPuyVpv1QVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758131358366-817db060e1ricnuiau9lq8poluok5sq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
