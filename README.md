@@ -6,16 +6,8 @@ Demonstrates how to use the flutter_zoom_sdk plugin.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h1>Ui For Wanas App</h1>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![Screenshot_2023-06-23-05-47-57-469_todolist scheduleplanner dailyplanner todo reminders 1](https://github.com/rehab732/GP_Wanas-Application/assets/75070096/a621fadc-2154-46a1-b5fc-4b5b29fb37f0)
 ![Screenshot_2023-06-23-08-18-45-391_com android chrome 1](https://github.com/rehab732/GP_Wanas-Application/assets/75070096/d1361f8c-60f4-44b5-989a-5f4a85c5bf11)
 
 
